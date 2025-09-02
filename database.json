@@ -6,6 +6,13 @@
       "price": 50000,
       "stock": 10,
       "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "P002",
+      "name": "woe",
+      "price": 1000,
+      "stock": 1,
+      "image": ""
     }
   ],
   "notifications": [
