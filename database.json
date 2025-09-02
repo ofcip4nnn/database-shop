@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Kaos Polos Elegan",
+      "price": 75000,
+      "stock": 10,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "P002",
+      "name": "Sepatu Sport Premium",
+      "price": 250000,
+      "stock": 5,
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "N001",
+      "title": "Diskon Spesial",
+      "message": "Dapatkan diskon hingga 50% untuk produk tertentu minggu ini!"
+    }
+  ],
+  "settings": {
+    "theme": "light",
+    "logo": "https://via.placeholder.com/100"
+  },
+  "owner": {
+    "username": "admin",
+    "password": "12345"
+  }
+}
